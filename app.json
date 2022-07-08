@@ -7,7 +7,7 @@
       "telegram",
       "python"
     ],
-    "repository": "https://github.com/breakdowns",
+    "repository": "https://github.com/EpicBotSl/kang-stickerbot",
     "website": "https://github.com/breakdowns",
     "success_url": "https://t.me/SlamDevs",
     "stack": "container",
